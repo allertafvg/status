@@ -6,6 +6,8 @@ repo: status # Your GitHub repository name
 sites:
   - name: Allerta FVG Website
     url: https://allertafvg.eu.org/cookies.html
+    expectedStatusCodes:
+    - 200
   - name: Map Server
     url: $SECRET_SITE
   - name: Mapbox Tiles Server
