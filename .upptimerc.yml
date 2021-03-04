@@ -21,9 +21,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: allertafvg.eu.org
+  cname: allertafvg.eu.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/allertafvg/allertafvg.github.io/master/images/logo.png
   name: Allerta FVG Status
   introTitle: "**Status Page** Allerta FVG"
