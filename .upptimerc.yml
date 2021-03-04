@@ -4,10 +4,10 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Allerta FVG Website
-    url: https://allertafvg.eu.org/cookies.html
-    expectedStatusCodes:
-    - 200
+  - name: Allerta FVG API 1
+    url: $SECRET_API1
+  - name: Allerta FVG API 2
+    url: $SECRET_API2
   - name: Map Server
     url: $SECRET_SITE
   - name: Mapbox Tiles Server
