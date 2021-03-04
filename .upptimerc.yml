@@ -6,8 +6,12 @@ repo: status # Your GitHub repository name
 sites:
   - name: Allerta FVG API 1
     url: $SECRET_API1
+    expectedStatusCodes:
+    - 200
   - name: Allerta FVG API 2
     url: $SECRET_API2
+    expectedStatusCodes:
+    - 200
   - name: Map Server
     url: $SECRET_SITE
   - name: Mapbox Tiles Server
