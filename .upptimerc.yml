@@ -5,7 +5,7 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Allerta FVG Website
-    url: https://allertafvg.eu.org
+    url: https://allertafvg.eu.org/cookies.html
   - name: Map Server
     url: $SECRET_SITE
   - name: Mapbox Tiles Server
