@@ -28,7 +28,7 @@ status-website:
   name: Allerta FVG Status
   introTitle: "**Status Page** Allerta FVG"
   introMessage: List of status of Allerta FVG services
-  themeUrl: http://allertafvg.eu.org/static/italia.css
+  themeUrl: https://allertafvg.eu.org/static/italia.css
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
