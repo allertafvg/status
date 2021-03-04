@@ -24,6 +24,9 @@ status-website:
   name: Allerta FVG Status
   introTitle: "**Status Page** Allerta FVG"
   introMessage: List of status of Allerta FVG services
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/italia/design-jekyll-theme/master/assets/bootstrap-italia/dist/css/bootstrap-italia.min.css
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
