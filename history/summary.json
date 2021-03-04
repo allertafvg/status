@@ -36,21 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Mapbox",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "mapbox",
+    "name": "Mapbox Tiles Server",
+    "url": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/",
+    "icon": "https://favicons.githubusercontent.com/api.mapbox.com",
+    "slug": "mapbox-tiles-server",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
