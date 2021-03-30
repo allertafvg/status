@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "allerta-fvg-api-1",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 954,
-    "timeWeek": 892,
-    "timeMonth": 898,
-    "timeYear": 898,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 910,
+    "timeDay": 1288,
+    "timeWeek": 939,
+    "timeMonth": 910,
+    "timeYear": 910,
+    "dailyMinutesDown": {
+      "2021-03-04": 63
+    }
   },
   {
     "name": "Allerta FVG API 2",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "allerta-fvg-api-2",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1590,
-    "timeDay": 1314,
-    "timeWeek": 1717,
-    "timeMonth": 1590,
-    "timeYear": 1590,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1582,
+    "timeDay": 1330,
+    "timeWeek": 1294,
+    "timeMonth": 1582,
+    "timeYear": 1582,
+    "dailyMinutesDown": {
+      "2021-03-04": 63
+    }
   },
   {
     "name": "Map Server",
@@ -41,17 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "map-server",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3572,
-    "timeDay": 3550,
-    "timeWeek": 3406,
-    "timeMonth": 3572,
-    "timeYear": 3572,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 3568,
+    "timeDay": 3399,
+    "timeWeek": 3355,
+    "timeMonth": 3568,
+    "timeYear": 3568,
+    "dailyMinutesDown": {
+      "2021-03-04": 63
+    }
   },
   {
     "name": "Mapbox Tiles Server",
@@ -59,16 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/api.mapbox.com",
     "slug": "mapbox-tiles-server",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 148,
-    "timeWeek": 199,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 240,
+    "timeDay": 147,
+    "timeWeek": 198,
+    "timeMonth": 240,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2021-03-04": 63
+    }
   }
 ]
