@@ -4,7 +4,7 @@
     "url": "$SECRET_API1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "allerta-fvg-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1029,
     "timeDay": 970,
     "timeWeek": 1041,
-    "timeMonth": 1249,
+    "timeMonth": 1237,
     "timeYear": 1029,
     "dailyMinutesDown": {}
   },
