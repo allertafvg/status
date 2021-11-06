@@ -1,7 +1,7 @@
 url: https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/
 status: up
 code: 401
-responseTime: 363
-lastUpdated: 2021-11-05T23:05:46.699Z
+responseTime: 400
+lastUpdated: 2021-11-06T23:05:45.404Z
 startTime: Thu Mar 04 2021 15:40:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
