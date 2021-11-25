@@ -58,17 +58,17 @@
     "url": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/",
     "icon": "https://favicons.githubusercontent.com/api.mapbox.com",
     "slug": "mapbox-tiles-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 221,
-    "timeWeek": 321,
-    "timeMonth": 269,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 204,
+    "timeWeek": 304,
+    "timeMonth": 266,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
